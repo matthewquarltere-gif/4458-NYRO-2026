@@ -11,7 +11,7 @@
 const SCOUTING_CONFIG = {
     // Google Apps Script URL (ends with /exec)
     // Get this from: Google Sheet → Extensions → Apps Script → Deploy → Web app
-    WEBHOOK_URL: "https://script.google.com/macros/s/AKfycbwn1PfEYZDMNzWOqW2GiusUO8wx-Rmlt6rU4AIYkbwKsoiC0O_NuArUnVwmoBefGxWwAg/exec",
+    WEBHOOK_URL: "https://script.google.com/macros/s/AKfycbxA6UBJvsgSSdAx-9BZtKph4qSE7rAd3Xl9sN_-jDuYxY03-_2Wruh9dHh5asUKLErs/exec",
 
     // The Blue Alliance API key
     // Get this from: thebluealliance.com/account → Read API Keys
@@ -19,7 +19,7 @@ const SCOUTING_CONFIG = {
 
     // Event code (find at thebluealliance.com — last part of event URL)
     // Example: "2026wiapp" = 2026 Appleton District
-    EVENT_KEY: "2026nyro",
+    EVENT_KEY: "2026nyli2",
 
     // Set to false to disable team loading from TBA
     ENABLE_TEAM_LOADING: true,
